@@ -82,7 +82,7 @@ function login() {
                                 </a>
                             </div>
                         </div>
-                    </>
+                    </form>
                 </div>
             </div>
             <div class="info-side">
